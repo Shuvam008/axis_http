@@ -1,7 +1,7 @@
 name: axis_http
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Shuvam008/axis_http.git
 
 environment:
   sdk: '>=2.19.0-444.1.beta <3.0.0'
